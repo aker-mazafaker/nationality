@@ -19,6 +19,7 @@
 		3F020F222A8D12CE00A5DD03 /* KeychainAccess in Frameworks */ = {isa = PBXBuildFile; productRef = 3F020F212A8D12CE00A5DD03 /* KeychainAccess */; };
 		3F020F242A8D12EF00A5DD03 /* SecondViewControler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F020F232A8D12EF00A5DD03 /* SecondViewControler.swift */; };
 		3FBC85372A9EFB1900BC86A6 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FBC85362A9EFB1900BC86A6 /* Model.swift */; };
+		3FBC85392AA3937D00BC86A6 /* univercity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FBC85382AA3937D00BC86A6 /* univercity.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		3F020F102A8D121100A5DD03 /* _6_08classworkUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _6_08classworkUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		3F020F232A8D12EF00A5DD03 /* SecondViewControler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewControler.swift; sourceTree = "<group>"; };
 		3FBC85362A9EFB1900BC86A6 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		3FBC85382AA3937D00BC86A6 /* univercity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = univercity.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 		3F020EE12A8D121000A5DD03 = {
 			isa = PBXGroup;
 			children = (
+				3FBC85382AA3937D00BC86A6 /* univercity.swift */,
 				3F020EEC2A8D121000A5DD03 /* 16.08classwork */,
 				3F020F032A8D121100A5DD03 /* 16.08classworkTests */,
 				3F020F0D2A8D121100A5DD03 /* 16.08classworkUITests */,
@@ -273,6 +276,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3FBC85372A9EFB1900BC86A6 /* Model.swift in Sources */,
+				3FBC85392AA3937D00BC86A6 /* univercity.swift in Sources */,
 				3F020EF22A8D121000A5DD03 /* ViewController.swift in Sources */,
 				3F020EEE2A8D121000A5DD03 /* AppDelegate.swift in Sources */,
 				3F020EF02A8D121000A5DD03 /* SceneDelegate.swift in Sources */,
